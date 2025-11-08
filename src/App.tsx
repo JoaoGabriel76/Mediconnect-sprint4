@@ -42,7 +42,7 @@ export default function App(){
 
       <footer className="border-t mt-8 border-primary-100 bg-white/60">
         <div className="container mx-auto p-6 text-sm text-gray-600 text-center">
-          João Gabriel — RM: 123456 — Sala: 1TDS Fevereiro · © {new Date().getFullYear()} MediConnect
+           © {new Date().getFullYear()} MediConnect
         </div>
       </footer>
     </div>
