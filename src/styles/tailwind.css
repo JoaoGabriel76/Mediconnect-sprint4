@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.smooth { transition: all 220ms cubic-bezier(.2,.9,.3,1); }
+.card { @apply bg-white rounded-lg shadow p-6; }
+.hero-img { @apply rounded-lg object-cover w-full h-full; }
+:focus { outline: 3px solid rgba(47,159,255,0.18); outline-offset: 2px; }
