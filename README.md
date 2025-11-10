@@ -38,5 +38,5 @@ npm install
 npm run dev
 ```
 
-🔗 **GitHub:** [https://github.com/JoaoGabriel76/Mediconnect-sprint4.git]  
+🔗 **GitHub:** [https://github.com/JoaoGabriel76/Mediconnect-sprint4]  
  
